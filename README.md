@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaurangMudgal
 - 👀 I’m interested in Tech, Gadgets, and learning Programming Languages
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently working as a Software Engineer having 4+ years of experience in Java, Spring Boot, Angular
 - 📫 How to reach me gaurangmudgal13@gmail.com
 
 <!---
