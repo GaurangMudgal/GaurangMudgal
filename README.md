@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaurang Mudgal
-- 👀 I’m interested in Tech, Gadgets, and learning Programming Languages
 - 🌱 I’m currently working as a Software Engineer having 4+ years of experience in Java, Spring Boot, Angular
+- 👀 I'm also a freelancer, and a casual gamer as well
 
 <!---
 GaurangMudgal/GaurangMudgal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
