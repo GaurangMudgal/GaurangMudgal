@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GaurangMudgal
+- 👋 Hi, I’m Gaurang Mudgal
 - 👀 I’m interested in Tech, Gadgets, and learning Programming Languages
 - 🌱 I’m currently working as a Software Engineer having 4+ years of experience in Java, Spring Boot, Angular
 
