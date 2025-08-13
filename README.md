@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaurang Mudgal
-- 🌱 I’m currently working as a Software Engineer having 4+ years of experience in Java, Spring Boot, Angular
+- 🌱 I’m currently working as a Software Engineer having 4+ years of experience in Java, Spring Boot, and Angular
 - 👀 I'm also a freelancer, and a casual gamer as well
 
 <!---
